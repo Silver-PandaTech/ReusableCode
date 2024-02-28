@@ -1,0 +1,17 @@
+/*
+Theme Name: Uni
+Author: Silver Panda Tech
+Version: 1.0
+*/
+
+h1 {
+    color: blue;
+}
+
+html {
+    background-color: black;
+}
+
+#index-footer {
+    background-color: #F0EDCF;
+}
